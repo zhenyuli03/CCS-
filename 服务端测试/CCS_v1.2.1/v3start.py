@@ -1,0 +1,2 @@
+import ccsmain
+ccsmain.begin()
